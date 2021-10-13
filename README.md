@@ -8,7 +8,7 @@ O repositório está dividido conforme a execução das aulas de 2020.2.
 
 ## Projetos
 
-```
+```markdown
 .
 ├── blockchain-python
 │   ├── 01-hashing
@@ -21,7 +21,15 @@ O repositório está dividido conforme a execução das aulas de 2020.2.
 |   │   └── blockchain.py
 |   ├── 05-transactions
 |   │   └── blockchain.py
-[...]
+|   ├── 06-consensus
+|   │   └── blockchain.py
+├── smart-contracts
+│   ├── 07-smart-contracts-01
+│   │   └── contract.sol
+│   ├── 08-smart-contracts-02
+│   │   └── contract.sol
+└── final-project
+    └── [...]
 
 ```
 
