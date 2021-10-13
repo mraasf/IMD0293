@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Repositório GitHub para IMD0293 [Prof. Danilo Curvelo](https://github.com/danilocurvelo/)
 
-You can use the [editor on GitHub](https://github.com/danilocurvelo/IMD0293/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Repositório com o conteúdo acadêmico para a disciplina IMD0293. Neste repositório você irá encontrar os slides das aulas e os códigos-fonte para realização das atividades práticas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esse repositório é um *work-in-progress*, isso quer dizer que algus *bugs* podem ser encontrados e *commits* devem ser realizados com recorrência. Antes de realizar uma atividade, confirme que você tem a última versão dos códigos.
 
-### Markdown
+O repositório está dividido conforme a execução das aulas de 2020.2.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projetos
 
-```markdown
-Syntax highlighted code block
+```
+.
+├── blockchain-python
+│   ├── 01-hashing
+│   │   └── blockchain.py
+|   ├── 02-blocks
+|   │   └── blockchain.py
+|   ├── 03-pow
+|   │   └── blockchain.py
+|   ├── 04-sign-and-verify
+|   │   └── blockchain.py
+|   ├── 05-transactions
+|   │   └── blockchain.py
+[...]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danilocurvelo/IMD0293/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
