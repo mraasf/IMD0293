@@ -4,7 +4,7 @@ Repositório com o conteúdo acadêmico para a disciplina IMD0293. Neste reposit
 
 Esse repositório é um *work-in-progress*, isso quer dizer que algus *bugs* podem ser encontrados e *commits* devem ser realizados com recorrência. Antes de realizar uma atividade, confirme que você tem a última versão dos códigos.
 
-O repositório está dividido conforme a execução das aulas de 2020.2.
+O repositório está dividido conforme a execução das aulas de 2021.2.
 
 ## Projetos
 
