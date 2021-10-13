@@ -6,7 +6,7 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
 
 <table style="width:100%">
   <tr>
-    <td colspan="2"><strong>(19/01 - 21/01) Semana 1</strong></td>
+    <td colspan="2"><strong>(19/10 - 21/10) Semana 1</strong></td>
   </tr>
   <tr>
     <td><strong>Apresentação do curso</strong></td>
