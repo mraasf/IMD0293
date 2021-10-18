@@ -26,7 +26,8 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em></td>
+    <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em><br>
+    <a target="_blank" href="https://learnmeabitcoin.com/">How does Bitcoin work?</a> por <em>Greg Walker</em></td>
   </tr>
   <tr>
     <td>Bibliografia</td>
