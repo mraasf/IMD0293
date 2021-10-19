@@ -10,7 +10,7 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td><strong>Apresentação do curso</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/00-presentation.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/00-presentation.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Videoaula-00897B?style=flat-square&logo=google-meet"></a></td>
   </tr>
     <tr>
     <td><strong>Protocolo Bitcoin: visão geral</strong></td>
