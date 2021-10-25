@@ -34,22 +34,22 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
 
-</table>
 
-<!-- 
+
+
   
 <tr><td colspan="2"></td></tr>
     
   <tr>
-    <td colspan="2"><strong>(26/01 - 28/01) Semana 2</strong></td>
+    <td colspan="2"><strong>(26/10 - 28/10) Semana 2</strong></td>
     </tr>
     <tr>
     <td><strong>Do Bitcoin ao Blockchain</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/02-blockchain-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=tmjRa4D9qh8"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/02-blockchain-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/ppaHCOsqZjY"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   <tr>
   <td>Atendimento síncrono</td>
-   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 28/01 17:00-18:30</td>
+   <td><a target="_blank" href="https://discord.gg/w8zPgquWxg"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 28/10 17:00-18:30</td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -65,6 +65,10 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
   
+</table>
+
+<!-- 
+
   <tr><td colspan="2"></td></tr>
     
   <tr>
