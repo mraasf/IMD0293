@@ -64,19 +64,16 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
     <td>Bibliografia</td>
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
-  
-</table>
-
-<!-- 
+ 
 
   <tr><td colspan="2"></td></tr>
     
   <tr>
-    <td colspan="2"><strong>(02/02 - 04/02) Semana 3</strong></td>
+    <td colspan="2"><strong>(02/11 - 04/11) Semana 3</strong></td>
     </tr>
     <tr>
     <td><strong>Arq. do Blockchain: Hashing</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=ZEXXe-CAUzE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/ZEXXe-CAUzE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   <tr>
   <td>Atendimento síncrono</td>
@@ -84,7 +81,7 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Atividade avaliativa #01</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/QNH-yHZL"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 07/02 23:59</strong></em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/jsk9IqnJ"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 07/11 23:59</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -102,6 +99,10 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
   
   <tr><td colspan="2"></td></tr>
+  
+  </table>
+
+<!-- 
     
   <tr>
     <td colspan="2"><strong>(09/02 - 11/02) Semana 4</strong></td>
