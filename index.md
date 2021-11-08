@@ -100,12 +100,10 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
   <tr><td colspan="2"></td></tr>
   
-  </table>
 
-<!-- 
     
   <tr>
-    <td colspan="2"><strong>(09/02 - 11/02) Semana 4</strong></td>
+    <td colspan="2"><strong>(09/11 - 11/11) Semana 4</strong></td>
     </tr>
     <tr>
     <td><strong>Arq. do Blockchain: Bloco</strong></td>
@@ -120,11 +118,11 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
   <tr>
   <td>Atendimento síncrono</td>
-   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 11/02 17:00-18:30</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 11/11 17:00-18:30</td>
   </tr>
   <tr>
     <td>Atividade avaliativa #02</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/j0wOpXlA"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 14/02 23:59</strong></em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/COeAIJsZ"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 14/11 23:59</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -143,6 +141,10 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
   
    <tr><td colspan="2"></td></tr>
+  
+    </table>
+
+<!-- 
     
   <tr>
     <td colspan="2"><strong>(16/02 - 25/02) Semana 5 e 6</strong></td>
