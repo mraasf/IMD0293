@@ -142,6 +142,9 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
    <tr><td colspan="2"></td></tr>
   
+      </table>
+
+<!-- 
 
   <tr>
     <td colspan="2"><strong>(16/11 - 18/11) Semana 5</strong></td>
@@ -177,9 +180,7 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
    <tr><td colspan="2"></td></tr>
   
-      </table>
 
-<!-- 
     
     
   <tr>
