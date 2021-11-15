@@ -142,12 +142,9 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
    <tr><td colspan="2"></td></tr>
   
-    </table>
 
-<!-- 
-    
   <tr>
-    <td colspan="2"><strong>(16/02 - 25/02) Semana 5 e 6</strong></td>
+    <td colspan="2"><strong>(16/11 - 18/11) Semana 5</strong></td>
     </tr>
     <tr>
     <td><strong>Arq. do Blockchain: Consenso</strong></td>
@@ -161,7 +158,7 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Atividade avaliativa #03</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/fMwH_7wE"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 28/02 23:59</strong></em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/85UY6sIE"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 28/02 23:59</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -179,6 +176,11 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
   
    <tr><td colspan="2"></td></tr>
+  
+      </table>
+
+<!-- 
+    
     
   <tr>
     <td colspan="2"><strong>(02/03 - 04/03) Semana 7</strong></td>
