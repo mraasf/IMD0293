@@ -154,11 +154,11 @@ Todo o material acadêmico da execução 2021.2 de **Tópicos Especiais em Inter
   
   <tr>
   <td>Atendimento síncrono</td>
-   <td><a target="_blank" href="https://discord.gg/w8zPgquWxg"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 18/02 e 25/02 17:00-18:30</td>
+   <td><a target="_blank" href="https://discord.gg/w8zPgquWxg"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 18/11 17:00-18:30</td>
   </tr>
   <tr>
     <td>Atividade avaliativa #03</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/85UY6sIE"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 28/02 23:59</strong></em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/85UY6sIE"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 21/11 23:59</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
